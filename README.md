@@ -2,7 +2,7 @@
 
 This project is a Python-based text adventure game that allows users to navigate a map, collect items, and complete an objective before reaching the final room. The application demonstrates core programming concepts, algorithmic thinking, and foundational software design principles.
 
-This project served as the original version of a larger capstone project that was later expanded into a Java-based application with added features such as database integration and user authentication. You can view the enhanced Java version [here](https://github.com/KnHoehn/Python-Text-Based-Game)
+This project served as the original version of a larger capstone project that was later expanded into a Java-based application with added features such as database integration and user authentication. You can view the enhanced Java version [here](https://github.com/KnHoehn/Python-Text-Based-Game).
 
  
 
@@ -73,3 +73,8 @@ Additional challenges included:
 - Designing clear win and loss conditions
 - Structuring the program for readability and maintainability
 Through this project, I developed a strong foundation in Python programming, control flow, and problem-solving, which later supported the development of a more advanced version of the project in Java.
+
+You can use this map if you get stuck during your playthrough:
+
+
+<img width="377" height="382" alt="SpaceTextBasedGameMap" src="https://github.com/user-attachments/assets/af45f60c-48b9-49d5-bc8f-6f6b28d052bd" />
